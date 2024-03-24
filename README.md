@@ -2,7 +2,7 @@
 ScheduleManagerInC++
 You need to Create Schedules Using Schedule Manager First Then
 you can manipulate the Schedules Using Schedule Explorer
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Demo
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Demo (WILL BE PROVIDED IN FORM OF PICTURES AND GIFS)
 <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;First Step : Create The Schedules Using Schedule Manager App 
 <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬇️(Loading....)
 <br>![screen-capture (14)](https://github.com/annous246/ScheduleManagerInCpp-2022-2023/assets/64448280/7f3a20f3-bd18-497f-9e84-620f0e3d1dfe)
